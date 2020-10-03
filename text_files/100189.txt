@@ -1,0 +1,10 @@
+100189|20200710092659|wayback=False|
+We are committed to providing a 
+website that is accessible to the widest possible audience, regardless 
+of technology or ability. This website endeavors to comply with best 
+practices and standards defined by Section 508 of the U.S. 
+Rehabilitation Act. If you would like additional assistance or have 
+accessibility concerns, please contact the webmaster. 
+We are always striving to improve the accessibility standards of our 
+website.
+|
